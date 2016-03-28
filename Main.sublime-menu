@@ -1,0 +1,12 @@
+[
+  {
+    "id": "tools",
+    "children": [
+      {
+        "caption": "Php cs fixer",
+        "id": "phpcs",
+        "command": "phpcs"
+      }
+    ]
+  }
+]

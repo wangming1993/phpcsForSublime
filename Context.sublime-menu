@@ -1,0 +1,7 @@
+[
+  {
+    "id": "phpcs",
+    "command": "phpcs",
+    "caption": "Phc cs fixer"
+  }
+]

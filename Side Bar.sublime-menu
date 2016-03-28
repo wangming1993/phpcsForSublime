@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "Phpcs cs fixer",
+    "command": "phpcs"
+  }
+]
