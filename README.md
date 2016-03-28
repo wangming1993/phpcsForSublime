@@ -40,10 +40,12 @@ Usage:
 ```
 /home/user/.config/sublime-text-3/Packages/
 ```
+
 2. 在package目录下面新建一个文件夹, 如: *Mike*,
 ```
 /home/user/.config/sublime-text-3/Packages/Mike
 ```
+
 3. 拷贝全部文件到 *Mike*
 
 ## 特别说明
