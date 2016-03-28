@@ -34,19 +34,19 @@ Usage:
 
 ## 集成sublime插件
 
-1. 找到你的*sublime text 3* package位置, 可以通过:
+找到你的*sublime text 3* package位置, 可以通过:
 `Preferences` > `Browse Packages`, 在打开的文件夹中可以看到当前的文件路径,
 
 ```
 /home/user/.config/sublime-text-3/Packages/
 ```
 
-2. 在package目录下面新建一个文件夹, 如: *Mike*,
+在package目录下面新建一个文件夹, 如: *Mike*,
 ```
 /home/user/.config/sublime-text-3/Packages/Mike
 ```
 
-3. 拷贝全部文件到 *Mike*
+拷贝全部文件到 *Mike*
 
 ## 特别说明
 
