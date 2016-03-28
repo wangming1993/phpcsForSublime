@@ -15,7 +15,7 @@ class PhpcsCommand(sublime_plugin.TextCommand):
 def fix(phpFile):
     if not os.path.exists(phpFile):
         return;
-    command = "phpcs fix " + phpFile + " --fixers=no_blank_lines_before_namespace";
+    command = "phpcs fix " + phpFile;
     os.system(command);
 
 '''
